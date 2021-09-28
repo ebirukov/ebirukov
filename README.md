@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I’m Eugeny, a senior backend developer, based in Bryansk, Russia.
-🌱 I’m currently learning cloud native patterns and microservice architecture
+🌱 I’m currently learning golang and cloud native patterns and microservice architecture
