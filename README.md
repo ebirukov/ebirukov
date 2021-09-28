@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Eugeny, a senior java/kotlin backend developer, based in Bryansk, Russia.
+I’m Eugeny, a senior backend developer, based in Bryansk, Russia.
 🌱 I’m currently learning cloud native patterns and microservice architecture
